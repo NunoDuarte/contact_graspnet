@@ -1,5 +1,8 @@
 # Contact-GraspNet  
 
+## my fork to make it work: 
+Ubuntu 16.04; python3.5; tensorflow 1.15
+
 ### Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes   
 Martin Sundermeyer, Arsalan Mousavian, Rudolph Triebel, Dieter Fox  
 ICRA 2021    
